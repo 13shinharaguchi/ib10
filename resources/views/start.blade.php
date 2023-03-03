@@ -9,5 +9,6 @@
 <body>
     <div>ここから編集する</div>
     <button>登録</button>
+    <form action="GET"></form>
 </body>
 </html>
