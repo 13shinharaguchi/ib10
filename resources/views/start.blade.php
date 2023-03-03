@@ -8,5 +8,6 @@
 </head>
 <body>
     <div>ここから編集する</div>
+    <button>登録</button>
 </body>
 </html>
